@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolas-begue&label=Profile%20views&color=0e75b6&style=flat" alt="nicolas-begue" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolas-begue" alt="nicolas-begue" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolas-begue" alt="nicolas-begue" /></a> </p> -->
 
 - 🔭 I’m currently working on **Playdago**
 <p align="left">
