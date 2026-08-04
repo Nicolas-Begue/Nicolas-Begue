@@ -2,7 +2,7 @@
 
 # Nicolas Begue
 
-**Développeur full-stack indépendant** — La Réunion 🇷🇪
+**Développeur full-stack** — La Réunion 🇷🇪
 
 </div>
 
