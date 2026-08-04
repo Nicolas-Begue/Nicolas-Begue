@@ -1,10 +1,9 @@
 <div align="center">
 
-# Nicolas Begue
-
-**Développeur full-stack** — La Réunion 🇷🇪
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Nicolas%20Begue&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full-stack%20Developer%20%E2%80%A2%20La%20R%C3%A9union&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 
 </div>
+
 
 ---
 
