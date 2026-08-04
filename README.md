@@ -41,5 +41,5 @@ Je code aussi avec des agents IA en usage réel — pas comme gadget, comme part
 
 ## Contact
 
-📧 [dev@skydo.digital](mailto:dev@skydo.digital)
+📧 [nicolas.begue.ch@gmail.com](mailto:nicolas.begue.ch@gmail.com)
 
